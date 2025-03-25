@@ -16,6 +16,5 @@ I'm Triwit Pawante, a  developer from Thailand 🇹🇭
 </p>
 
 ## 🔥 My Status:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oak-jpeg&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oak-jpeg&layout=compact&theme=radical)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=oak-jpeg&layout=compact&theme=radical)
