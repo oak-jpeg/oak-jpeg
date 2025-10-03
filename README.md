@@ -6,23 +6,31 @@ I am a **Full-Stack Developer**
 
 ---
 
-### 🛠️ Skills & Tools
-- **Programming**: " Web app developer "
-- **operating system**: " Windows MacOS Linux "
+### 🛠️ My Tech Stack
+- **Operating System**: " Windows MacOS Linux "
+  
+**Programing**
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=html,css,js,ts,dart,java,php,python,mysql)](https://skillicons.dev)
 
-[![My Skills & Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,laravel,flutter,html,css,js,ts,dart,php,mysql,mongodb,npm,visualstudio,vscode,androidstudio,postman,docker,figma,firebase,github,windows,linux,mint)](https://skillicons.dev)
+**Framework**
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter)](https://skillicons.dev)
+
+**Tools**
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=figma,git,github,mysql,postman,vscode,androidstudio,postman,docker)](https://skillicons.dev)
+
+**Database**
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
 ---
 
 ### 🌍 About Me
 - **Location**: Lat Phrao, Bangkok, Thailand
-- **Experience**: 4 years as a Programmer
+- **Experience**: -
 
 ---
 
 ### 📬 Get in Touch  
 - **Email**: [flbudjc@gmail.com](mailto:flbudjc@gmail.com)
-- **Facebook**: [Tri Wit](https://www.facebook.com/JPEGDEV)
 - **Discord**: [jpeg_otp](https://discord.com/users/551680560163192832)
 
 ---
@@ -35,19 +43,6 @@ I am a **Full-Stack Developer**
 | Category | Tech | Project Name |
 |----------|------|--------------|
 | Full-Stack | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="20" height="20" /> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="20" height="20" /></code></p> | |
-
-## :earth_asia: Language Skills
-<p>
-◆◇◇◇ Beginner</br>
-◆◆◇◇ Fair</br>
-◆◆◆◇ Good</br>
-◆◆◆◆ Native
-</p>
-
-| Languages | Reading | Writing | Listening | Speaking |
-|-----------|---------|---------|-----------|----------|
-| <img src="https://static.wikia.nocookie.net/duolingo/images/2/25/Flag-th.svg/revision/latest?cb=20160603170720" alt="thai" width="30" height="20"/> Thai (TH)    | <p align="center">Native</p>   | <p align="center">Native</p>  | <p align="center">Native</p>    | <p align="center">Native</p>   |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg" alt="english" width="30" height="20"/> English (EN) | <p align="center">Good</p>   | <p align="center">Good</p>  | <p align="center">Beginner</p>    | <p align="center">Fair</p>   |
 
 ## 🔥 My Status:
 
