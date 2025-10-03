@@ -16,7 +16,7 @@ I am a **Full-Stack Developer**
 <br>[![My Skills & Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter)](https://skillicons.dev)
 
 **Tools**
-<br>[![My Skills & Tools](https://skillicons.dev/icons?i=figma,git,github,mysql,postman,vscode,androidstudio,postman,docker)](https://skillicons.dev)
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=figma,git,github,mysql,vscode,androidstudio,postman,docker)](https://skillicons.dev)
 
 **Database**
 <br>[![My Skills & Tools](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
