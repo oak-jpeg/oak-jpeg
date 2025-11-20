@@ -25,12 +25,12 @@ I'm a **Software Developer**
 
 ### 🌍 About Me
 - **Location**: Lat Phrao, Bangkok, Thailand
-- **Experience**: -
+- **Experience**: Looking for...
 
 ---
 
 ### 📬 Get in Touch  
-- **Email**: [flbudjc@gmail.com](mailto:flbudjc@gmail.com)
+- **Email**: [flbudjc@gmail.com](mailto:triwit.oak@gmail.com)
 - **Discord**: [jpeg_otp](https://discord.com/users/551680560163192832)
 
 ---
