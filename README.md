@@ -44,22 +44,5 @@ I am a **Full-Stack Developer**
 |----------|------|--------------|
 | Full-Stack | <p align="center"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20" style="filter: invert(1);" /> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="20" height="20" /></code></p> |https://socialguard.online/|
 
-## 🔥 My Status:
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=oak-jpeg&layout=compact&theme=radical)
-
-## :link: Social Media & Contact Me
-<div align="left">
-  <a href="https://www.facebook.com/JPEGDEV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook : Tri Wit" />
-  </a>
-  <a href="https://discord.com/users/551680560163192832" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord : jpeg_otp" />
-  </a>
-  <a href="mailto:flbudjc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail : flbudjc@gmail.com" />
-  </a>
-</div>
-</br>
 
 
