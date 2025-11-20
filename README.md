@@ -10,7 +10,7 @@ I am a **Full-Stack Developer**
 - **Operating System**: " Windows MacOS Linux "
   
 **Programing**
-<br>[![My Skills & Tools](https://skillicons.dev/icons?i=html,css,js,ts,dart,java,php,python,mysql)](https://skillicons.dev)
+<br>[![My Skills & Tools](https://skillicons.dev/icons?i=html,css,js,ts,go,dart,java,php,python,mysql)](https://skillicons.dev)
 
 **Framework**
 <br>[![My Skills & Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter)](https://skillicons.dev)
