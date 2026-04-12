@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm [Triwit Pawante]([https://github.com/jpeg_otp](https://github.com/oak-jpeg))
 
-I'm a **Software Developer** 
+I'm a **Software Developer, Data Engineer, Cloud Engineer** 
 <br>![Profile Views](https://komarev.com/ghpvc/?username=oak-jpeg&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -30,7 +30,7 @@ I'm a **Software Developer**
 ---
 
 ### 📬 Get in Touch  
-- **Email**: [flbudjc@gmail.com](mailto:triwit.oak@gmail.com)
+- **Email**: [triwit.oak@gmail.com](mailto:triwit.oak@gmail.com)
 - **Discord**: [jpeg_otp](https://discord.com/users/551680560163192832)
 
 ---
@@ -40,9 +40,6 @@ I'm a **Software Developer**
 - Security and efficiency are at the core of everything I build.
 
 ## :pushpin: My Project
-| Category | Tech | Project Name |
-|----------|------|--------------|
-| Full-Stack | <p align="center"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20" style="filter: invert(1);" /> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="20" height="20" /></code></p> |https://socialguard.online/|
 
 
 
