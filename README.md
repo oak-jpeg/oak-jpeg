@@ -1,5 +1,5 @@
 ## Hi There! 👨‍💻
-I'm Triwit (oak) — a Software Developer / Data Engineer / Cloud Engineer based in Bangkok, Thailand
+I'm Mr.Triwit Pawante (Oak) — a Software Developer / Data Engineer / Cloud Engineer based in Bangkok, Thailand
 - Focus on performance optimization, automation, and data-driven systems
 - Currently building systems for Social Listening & Creator Platforms
 
